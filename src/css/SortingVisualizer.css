@@ -1,0 +1,10 @@
+  .arraybar-container{
+    background-color: #282c34;
+    
+  }
+  
+  .array-bar {
+    width: 2px;
+    display: inline-block;
+    margin: 1px;
+  }
