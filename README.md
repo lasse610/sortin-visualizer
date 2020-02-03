@@ -1,3 +1,6 @@
+Visualizes how quicksort, heapsort, bubble sort and merge sort
+Use ##`npm install` and ##`npm start` to use
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
